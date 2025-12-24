@@ -1,0 +1,13 @@
+train: E:/dataest/train  # 训练集路径
+val: E:/dataest/val     # 验证集路径
+# test: E:/dataest/test  # 测试集路径
+
+
+nc: 6  # 类别数量
+names:
+  0: dabao
+  1: long
+  2: banzi
+  3: dianbiao
+  4: binghongcha
+  5: hezi
